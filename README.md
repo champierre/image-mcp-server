@@ -2,6 +2,10 @@
 
 画像のURLを受け取り、GPT-4-turboモデルを使用して画像の内容を分析するMCPサーバーです。
 
+<a href="https://glama.ai/mcp/servers/@champierre/image-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@champierre/image-mcp-server/badge" alt="Image Analysis Server MCP server" />
+</a>
+
 ## 機能
 
 - 画像URLを入力として受け取り、その画像の内容を詳細に分析
