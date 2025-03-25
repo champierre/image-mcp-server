@@ -27,7 +27,11 @@
     "axios": "^1.8.4",
     "dotenv": "^16.4.7",
     "openai": "^4.89.0",
+    "sharp": "^0.33.5",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
+  },
+  "devDependencies": {
+    "@types/sharp": "^0.32.0"
   }
 }
